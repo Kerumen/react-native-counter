@@ -6,6 +6,13 @@
   "repository": "git@github.com:Kerumen/react-native-counter.git",
   "author": "Yann Pringault <yann.pringault@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "counter",
+    "android",
+    "ios"
+  ],
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
