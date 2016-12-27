@@ -5,6 +5,8 @@ Animated counter component for [React Native](http://facebook.github.io/react-na
 inspired by [react-count-to](https://github.com/MicheleBertoli/react-count-to)
 and [react-counter](https://github.com/saebekassebil/react-counter).
 
+![gif](http://i.giphy.com/l4Jz4MOLaWYU61Oso.gif)
+
 # Installation
 
 ```bash
