@@ -1,7 +1,7 @@
 React Native Counter
 ====================
 
-Animated counter component for [React Native](http://facebook.github.io/react-native/)
+Simple counter component for [React Native](http://facebook.github.io/react-native/)
 inspired by [react-count-to](https://github.com/MicheleBertoli/react-count-to)
 and [react-counter](https://github.com/saebekassebil/react-counter).
 
