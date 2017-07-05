@@ -25,6 +25,7 @@ import Counter from 'react-native-counter';
   digits={0}                    // Number of digits after the comma
   easing="linear"               // Easing function name
   onComplete={}                 // Callback when the counter is completed
+  style={}                      // Custom style
 />
 ```
 
