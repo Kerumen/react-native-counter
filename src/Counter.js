@@ -10,6 +10,7 @@ export default class Counter extends Component {
     time: PropTypes.number,
     easing: PropTypes.string,
     onComplete: PropTypes.func,
+    style: PropTypes.any,
   };
 
   static defaultProps = {
@@ -51,11 +52,11 @@ export default class Counter extends Component {
   }
 
   render() {
-    const { digits } = this.props;
+    const { digits, style } = this.props;
     const { value } = this.state;
 
     return (
-      <Text>{value.toFixed(digits)}</Text>
+      <Text style={style}>{value.toFixed(digits)}</Text>
     );
   }
 }
